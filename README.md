@@ -2,6 +2,8 @@
 
 This is a demo of how you can configure a build system to serve **two different versions of React** side by side in the same app. This is not optimal, and should only be used as a compromise to prevent your app from getting stuck on an old version of React.
 
+**[Learn more about Gradual Upgrades.](https://reactjs.org/blog/2020/08/10/react-v17-rc.html#gradual-upgrades)**
+
 ## Contributing
 
 This demo is built with Create React App, although it is generic and doesn't assume a particular build system.
