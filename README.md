@@ -8,11 +8,13 @@ This is a demo of how you can configure a build system to serve **two different 
 
 This demo is built with Create React App, although it is generic and doesn't assume a particular build system.
 
+### Examples With Other Build Systems
+
 If you recreate this demo with a different build system, please send a pull request to link to it.
 
-### Alternative Builds
+These examples are maintained by the community:
 
-* [Next.js](https://github.com/jtmthf/next-gradual-upgrade-demo) - [demo](https://next-gradual-upgrade-demo.vercel.app/)
+* [Next.js](https://github.com/jtmthf/next-gradual-upgrade-demo) ([demo](https://next-gradual-upgrade-demo.vercel.app/))
 
 ## Why NOT Do This
 
