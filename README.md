@@ -10,6 +10,10 @@ This demo is built with Create React App, although it is generic and doesn't ass
 
 If you recreate this demo with a different build system, please send a pull request to link to it.
 
+### Alternative Builds
+
+* [Next.js](https://github.com/jtmthf/next-gradual-upgrade-demo) - [demo](https://next-gradual-upgrade-demo.vercel.app/)
+
 ## Why NOT Do This
 
 Note that **this approach is meant to be an escape hatch, not the norm**.
